@@ -2,4 +2,4 @@
 A bungeecord signs plugin for the BattleRoyale.
 
 ## Required libreries:
-- https://github.com/Isoface/BattleRoyale
+- https://github.com/Isoface/AdrianSRCore
